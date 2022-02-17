@@ -76,20 +76,6 @@ table {
     background-color: springgreen;
 }
 
-
-table{
-    margin-left: 100px;
-    border: 1px solid black;
-}
-
-td{
-    border: 1px solid black;
-}
-
-th, td{
-    padding: 10px;
-}
-
 .square{
     font-size: 80px;
 }
